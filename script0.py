@@ -9,4 +9,4 @@ hsu-neural-style
 hsu-ns
 hsu-util
 hsu-voice-activity
-utils
+hsu-unknown
